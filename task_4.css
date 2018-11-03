@@ -1,0 +1,25 @@
+body {
+  background: #eee;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.hour {
+  display: flex;
+  background: #222;
+  font-size: 16px;
+  border-radius: 5px;
+  color: #eee;
+  padding: 5px;
+  margin: 2px;
+  height: 22px;
+  align-items: center;
+}
+.colon {
+  display: inline-block;
+  padding: 5px 0 5px 0;
+}
