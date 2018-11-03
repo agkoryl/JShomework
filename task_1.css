@@ -1,0 +1,17 @@
+.date {
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid pink;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+    background: linear-gradient(45deg, rgba(252,236,252,1) 0%, rgba(251,166,225,0.54) 75%, rgba(253,137,215,0.41) 96%, rgba(255,124,216,0.38) 100%); 
+    font-size: 40px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+.date:hover {
+    color:  purple;
+    background: linear-gradient(45deg, rgba(252,236,252,1) 0%, rgba(251,166,225,0.29) 75%, rgba(253,137,215,0.09) 96%, rgba(255,124,216,0.05) 100%);
+}
