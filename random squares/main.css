@@ -1,7 +1,10 @@
 .square {
-    height: 50px;
-    width: 50px;
-    background-color: palevioletred;
+    height: 70px;
+    width: 70px;
+    background-color: rgb(200, 155, 52);
+    background-image: url(img.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
     box-sizing: border-box;
     border: 1px solid black;
     position: absolute;
